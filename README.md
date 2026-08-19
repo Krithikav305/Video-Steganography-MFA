@@ -30,8 +30,22 @@ The system also includes password and audio-based authentication to provide an a
 
 ## Project Screenshots
 
-The repository includes the system architecture, CNN model, application interface, and encryption output.
+### System Architecture
+
+[View System Architecture](screenshots/System%20Architecture.png)
+
+### CNN Model
+
+[View CNN Model](screenshots/CNN%20Model.png)
+
+### Website Output
+
+[View Website Output](screenshots/Website%20Output.png)
+
+### Encryption Output
+
+[View Encryption Output](screenshots/Encryption%20Output.png)
 
 ## Project Report
 
-The complete project report is included in this repository.
+[View the Complete Project Report](Video-Steganography-MFA%20Report.pdf)
